@@ -1,0 +1,43 @@
+p{
+    font-weight: lighter;
+    font-size: x-large;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color: rgb(18, 208, 215);
+}
+
+body{
+    background-color: cornflowerblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 5px solid black;
+    margin: 40px;
+    padding: 20px;
+    text-align: center;
+}
+
+h3{
+    text-align: left;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: left;
+}
+
+ol{
+    list-style-position: inside;
+    text-align: left;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
