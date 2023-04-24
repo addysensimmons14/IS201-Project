@@ -1,43 +1,43 @@
 p{
-    font-weight: lighter;
-    font-size: x-large;
+    font-weight: lighter!important;
+    font-size: x-large!important;
 }
 
 #top{
-    text-decoration: underline;
+    text-decoration: underline!important;
 }
 
 .emphasizedText{
-    font-style: italic;
-    color: rgb(18, 208, 215);
+    font-style: italic!important;
+    color: rgb(18, 208, 215)!important;
 }
 
 body{
-    background-color: cornflowerblue;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border: 5px solid black;
-    margin: 40px;
-    padding: 20px;
-    text-align: center;
+    background-color: cornflowerblue!important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif!important;
+    border: 5px solid black!important;
+    margin: 40px!important;
+    padding: 20px!important;
+    text-align: center!important;
 }
 
 h3{
-    text-align: left;
+    text-align: left!important;
 }
 
 ul{
-    list-style-position: inside;
-    text-align: left;
+    list-style-position: inside!important;
+    text-align: left!important;
 }
 
 ol{
-    list-style-position: inside;
-    text-align: left;
+    list-style-position: inside!important;
+    text-align: left!important;
 }
 
 img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 25%;
+    display: block!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    width: 25%!important;
 }
